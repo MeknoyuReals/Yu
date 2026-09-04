@@ -1,0 +1,6 @@
+{
+  "name": "Nesto Mod",
+  "description": "Sleek neon mod menu for Free Fire with customized overlays, floating ESP controller, Aimbot headshot configs, Wallhack customization, and integrated anti-ban tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
